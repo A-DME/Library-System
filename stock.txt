@@ -1,0 +1,383 @@
+ISBN|Title|Author|Copies|Year|Publisher|Price
+978-0-08-037876-3|Hydrostatically Loaded Structures|Nash, W.A.|20|1995|Pergamon|175
+978-0-08-041920-6|Urban Disaster Mitigation: The Role of Engineering|Cheng, F.Y./Sheu, M.S.|9|1995|Pergamon|213
+978-0-08-042140-7|Current Advances in Mechanical Design and Producti|M.E. Elarabi / A.S. Wifi|12|1995|Pergamon|222
+978-0-08-042266-4|Thin-Walled Structures with Structural Imperfectio|Godoy, L.A.|17|1996|Pergamon|261
+978-0-08-042688-4|Proceedings of the Sixteenth International Cryogen|T. Haruyama, T. Mitsui, K. Yamafuji|18|1997|Elsevier|231
+978-0-08-042699-0|Advances in the Bonded Composite Repair of Metalli|A.A. Baker / L.R.F. Rose / R. Jones|19|2002|Elsevier Science Ltd|120
+978-0-08-042821-5|Connections in Steel Structures III|Bjorhovde, R. / Colson, A. / Zandonini, R.|10|1996|Pergamon|124
+978-0-08-042825-3|Post-Earthquake Rehabilitation and Reconstruction|Cheng, F.Y. / Wang, Y.Y.|20|1996|Pergamon|342
+978-0-08-042830-7|Advances in Steel Structures (ICASS '96)|S.L. Chan, J.G. Teng|13|1996|Pergamon|249
+978-0-08-042839-0|Compact Heat Exchangers|J.E. Hesselgreaves|6|2001|Pergamon|336
+978-0-08-042848-2|Cognitive Reliability and Error Analysis Method (C|E. Hollnagel|14|1998|Elsevier Science Ltd|146
+978-0-08-042998-4|Non-Linear Static and Cyclic Analysis of Steel Fra|Siu-Lai Chan / Pui-Tak Chui|8|1999|Elsevier Science Ltd|303
+978-0-08-042999-1|Practical Ship Design|D.G.M. Watson|10|1998|Elsevier|151
+978-0-08-043008-9|Computational Mechanics in Structural Engineering|F.Y. Cheng / Yuanxian Gu|12|1999|Elsevier Science Ltd|312
+978-0-08-043015-7|Advances in Steel Structures (ICASS '99)|Siu-Lai Chan, J.G. Teng|10|1999|Pergamon|249
+978-0-08-043022-5|Minimum Reinforcement in Concrete Members|A. Carpinteri|12|1999|Elsevier|164
+978-0-08-043317-2|Wind Generated Ocean Waves|I.R. Young|17|1999|Elsevier|323
+978-0-08-043318-9|Fatigue Design of Components|G.Marquis, J Solin|7|1997|Elsevier|239
+978-0-08-043319-6|Inverse Problems in Engineering Mechanics|M. Tanaka / G.S. Dulikravich|12|1998|Elsevier Science Ltd|265
+978-0-08-043320-2|Stability and Ductility of Steel Structures (SDSS'|T. Usami / Y. Itoh|8|1998|Pergamon|238
+978-0-08-043322-6|Damage Mechanics in Engineering Materials|G.Z. Voyiadjis, Jiann-Wen Ju, Jean-Louis Chab|16|1998|Elsevier|288
+978-0-08-043327-1|Advances in Adaptive Computational Methods in Mech|P. Ladevï¿½ze, J.T. Oden|9|1998|Elsevier|228
+978-0-08-043328-8|Engineering Turbulence Modelling and Experiments 4|W. Rodi / D. Laurence|14|1999|Elsevier Science Ltd|158
+978-0-08-043329-5|Fatigue Design and Reliability|G.Marquis, J Solin|6|1999|Elsevier|314
+978-0-08-043336-3|Multitaxial Fatigue & Fracture|E. Macha, W. Bedkowski, T. Lagoda|20|1999|Elsevier|130
+978-0-08-043341-7|Vibration of Mindlin Plates|K.M. Liew/C.M. Wang/Y. Xiang/S. Kitipornchai|6|1998|Elsevier Science Ltd|194
+978-0-08-043567-1|Agile Manufacturing: The 21st Century Competitive|A. Gunasekaran|13|2001|Elsevier Science Ltd|106
+978-0-08-043643-2|Ergonomics Guidelines and Problem Solving|A. Mital|5|2000|Elsevier|203
+978-0-08-043661-6|Advanced Polymer Composites and Polymers in the Ci|L.C. Hollaway / P.R. Head|13|2001|Elsevier Science Ltd|258
+978-0-08-043668-5|Poroelastic Structures|G. Cederbaum / L. P. Li / K. Schulgasser|12|2000|Elsevier Science Ltd|265
+978-0-08-043689-0|Fracture Mechanics Testing Methods for Polymers, A|D.R. Moore, J.G. Williams, A. Pavan|17|2001|Elsevier|270
+978-0-08-043693-7|Inverse Problems in Engineering Mechanics II|M. Tanaka / G.S. Dulikravich|15|2000|Elsevier Science Ltd|131
+978-0-08-043699-9|Fracture Mechanics: Applications and Challenges|M. Fuentes, M. Elices|16|2000|Elsevier|241
+978-0-08-043710-1|Fracture of Polymers, Composites and Adhesives|J.G. Williams, A. Pavan|16|2000|Elsevier|239
+978-0-08-043711-8|Current Advances in Mechanical Design and Producti|M.F. Hassan / S.M. Megahed|12|2000|Pergamon|307
+978-0-08-043712-5|Pipelines and Risers|Yong Bai|10|2001|Elsevier|344
+978-0-08-043784-2|Shear Deformable Beams and Plates|C.M. Wang / J.N. Reddy / K.H. Lee|12|2000|Elsevier Science Ltd|284
+978-0-08-043868-9|Design Knowing and Learning: Cognition in Design E|C. Eastman / W. Newstetter / M. McCracken|14|2001|Elsevier|305
+978-0-08-043921-1|Marine Structural Design|Yong Bai|8|2003|Elsevier|321
+978-0-08-043948-8|Structural Engineering, Mechanics and Computation|Zingoni, A.|11|2001|Elsevier|120
+978-0-08-043950-1|Practical Design of Ships and Other Floating Struc|Wu|18|2001|Elsevier|119
+978-0-08-043951-8|Inverse Problems in Engineering Mechanics III|M. Tanaka / G.S. Dulikravich|18|2002|Elsevier|150
+978-0-08-043953-2|Load and Global Response of Ships|J.J Jensen|12|2001|Elsevier|100
+978-0-08-043970-9|From Charpy to Present Impact Testing|D. Francois, A. Pineau|16|2002|Elsevier|151
+978-0-08-043982-2|Temperature-Fatigue Interaction|L. Remy, J. Petit|5|2002|Elsevier|226
+978-0-08-043985-3|Multivariable System Identification For Process Co|Y. Zhu|5|2001|Pergamon|288
+978-0-08-044017-0|Advances in Steel Structures (ICASS '02)|J.G. Teng, K.F. Chung, S.L. Chan|10|2002|Elsevier|306
+978-0-08-044046-0|Computational Fluid and Solid Mechanics 2003|K.J. Bathe|5|2003|Elsevier|227
+978-0-08-044050-7|MATLABï¿½ for Photomechanics- A Primer|A. Asundi|18|2002|Elsevier|117
+978-0-08-044066-8|Modeling, Sensing and Control of Gas Metal Arc Wel|D.S Naidu / S. Ozcelik / K. Moore|5|2003|Elsevier Science Ltd|282
+978-0-08-044076-7|ISSC 2003 - 15th International Ship and Offshore S|A.E Mansour, R.C Ertekin|9|2003|Elsevier|254
+978-0-08-044080-4|Risk Assessment and Management of Repetitive Movem|Daniela Colombini|7|2002|Elsevier|337
+978-0-08-044085-9|Stability of Nonlinear Shells|D. Shilkrut, E. Riks|9|2001|Elsevier|215
+978-0-08-044100-9|Advances in Building Technology|M. Anson, J.M. Ko, E.S.S. Lam|8|2002|Elsevier|311
+978-0-08-044101-6|Cold-Formed Tubular Members and Connections|Xiao-Ling Zhao/Greg Hancock/Tim Wilkinson|13|2005|Elsevier|211
+978-0-08-044107-8|Boundary Elements: Theory and Applications|J.T. Katsikadelis|13|2002|Elsevier|182
+978-0-08-044114-6|Engineering Turbulence Modelling and Experiments 5|W. Rodi / N. Fueyo|5|2002|Elsevier Science Ltd|174
+978-0-08-044129-0|Biaxial/Multiaxial Fatigue and Fracture|Andrea Carpinteri, Manuel De Freitus, Andrea|15|2003|Elsevier|218
+978-0-08-044147-4|Simulation Methods for ESD Protection Development|Harald Gossner / Kai Esmark / Wolfgang Stadle|14|2003|Elsevier Science Ltd|299
+978-0-08-044148-1|Technology and Safety of Marine Systems|A. Pillay, J. Wang|5|2003|Elsevier|130
+978-0-08-044195-5|Fracture of Polymers, Composites and Adhesives II|J. Williams, A. Pavan, Bamber Balckman|20|2003|Elsevier|214
+978-0-08-044212-9|Wave Energy Conversion|John Brooke|20|2003|Elsevier|104
+978-0-08-044268-6|Inverse Problems in Engineering Mechanics IV|Mana Tanaka|17|2003|Elsevier Science Ltd|266
+978-0-08-044271-6|Vibration of Laminated Shells and Plates|Mohamad Qatu|8|2004|Academic Press|292
+978-0-08-044312-6|Hurricane Generated Seas|Michel Ochi|20|2003|Elsevier|246
+978-0-08-044348-5|Introduction to Hydrocodes|Jonas Zukas|8|2004|Elsevier|220
+978-0-08-044350-8|Analysis of Turbulent Flows|Tuncer Cebeci|17|2004|Elsevier|349
+978-0-08-044352-2|Dynamic fracture|K RaviChandar|5|2004|Elsevier|152
+978-0-08-044371-3|Fast Multipole Methods for the Helmholtz Equation|Nail Gumerov / Ramani Duraiswami|17|2005|Elsevier|140
+978-0-08-044381-2|Handbook of Offshore Engineering|Subrata Chakrabarti|10|2005|Elsevier Science|170
+978-0-08-044429-1|Reliability of Large Systems|Krzysztof Kolowrocki|8|2004|Elsevier|262
+978-0-08-044466-6|Environmental Ergonomics: The Ergonomics of Human|Yutaka Tochihara, Tadakatsu Ohnara|8|2005|Elsevier|166
+978-0-08-044475-8|Failure Criteria in FibreReinforced-Polymer Compo|M. Hinton/P Soden/AbdulSalam Kaddour|19|2004|Elsevier|103
+978-0-08-044477-2|Rotating Shell Dynamics|Hua Li, Khin-Yong Lam, Teng-Yong Ng|9|2005|Elsevier|226
+978-0-08-044495-6|Corrosion of Aluminium|Christian Vargel|16|2004|Elsevier|142
+978-0-08-044506-9|Computational Fluid Dynamics: Principles and Appli|Jiri Blazek|6|2005|Elsevier|242
+978-0-08-044508-3|Fluids, Materials and Microgravity|Marcello Lappa|13|2004|Elsevier|216
+978-0-08-044510-6|Corrosion Induced By Low-Energy Radionuclides|Gilbert Bellanger|13|2004|Elsevier|310
+978-0-08-044511-3|Galvanized Steel Reinforcement in Concrete|Stephen Yeomans|6|2004|Elsevier|273
+978-0-08-044538-0|Pattern Recognition in Industry|Phiroz Bhagat|8|2005|Elsevier|213
+978-0-08-044544-1|Engineering Turbulence Modelling and Experiments 6|Wolfgang Rodi|13|2005|Elsevier Science Ltd|299
+978-0-08-044545-8|Composite Structures, Design, Safety and Innovatio|Dr. Bjorn Backman|15|2005|Elsevier|261
+978-0-08-044548-9|Design of FRP and Steel Plated RC Structures: Retr|Deric Oehlers, Rudolph Seracino|10|2004|Elsevier|164
+978-0-08-044554-0|Handbook of Adhesives and Sealants, Volume 1|Phillipe Cognard|8|2005|Elsevier|282
+978-0-08-044566-3|Subsea Pipelines and Risers|Yong Bai / Qiang Bai|7|2005|Elsevier Science Ltd|343
+978-0-08-044584-7|Recent Developments in Applied Electrostatics|Sun Keping, Yu Kefei|15|2004|Elsevier|180
+978-0-08-044606-6|The Mechanics of Constitutive Modeling|Niels Saabye Ottosen/Matti Ristinmaa|11|2005|Elsevier Science Ltd|227
+978-0-08-044626-4|Fans and Ventilation: A practical guide|William Cory|13|2005|Elsevier|145
+978-0-08-044636-3|Computational Plasticity in Powder Forming Process|Amir Khoei|13|2005|Elsevier|221
+978-0-08-044637-0|Fourth International Conference on Advances in Ste|Z Y Shen / G.Q. Li / Y.Y. Chen / Q.L. Zhang /|10|2005|Elsevier Science Ltd|145
+978-0-08-044688-2|Advances in Damage Mechanics: Metals and Metal Mat|George Voyiadjis / Peter Kattan|6|2006|Elsevier Science Ltd|116
+978-0-08-044691-2|High Cycle Fatigue|Theodore Nicholas|20|2006|Elsevier Science Ltd|194
+978-0-08-044708-7|Handbook of Adhesives and Sealants, Volume 2|Phillipe Cognard|9|2006|Elsevier|228
+978-0-08-044731-5|Non-Rocket Space Launch and Flight|Alexander Bolonkin|13|2005|Elsevier|334
+978-0-08-044888-6|Management of Industrial Cleaning Technology and P|John Durkee|16|2006|Elsevier|123
+978-0-08-044924-1|Accelerated Quality and Reliability Solutions|Lev Klyatis, Eugene Klyatis|6|2006|Elsevier|110
+978-0-08-044950-0|Pressure Vessel Design: The Direct Route|Josef Zeman|5|2006|Elsevier|343
+978-0-12-012768-9|Digital Signal Processing Systems: Implementation|Cornelius Leondes|19|1995|Academic Press|118
+978-0-12-012769-6|Multidimensional Systems: Signal Processing and Mo|Cornelius Leondes|5|1995|Academic Press|314
+978-0-12-012770-2|Digital Control Systems Implementation Techniques|Cornelius Leondes|7|1995|Academic Press|316
+978-0-12-012771-9|DiscreteTime Control System Analysis and Design|Cornelius Leondes|7|1995|Academic Press|117
+978-0-12-012772-6|DiscreteTime Control System Implementation Techniq|Cornelius Leondes|12|1995|Academic Press|151
+978-0-12-012773-3|Techniques in Discrete-Time Stochastic Control Sys|Cornelius Leondes|20|1995|Academic Press|203
+978-0-12-012774-0|Techniques in Discrete and Continuous Robust Syste|Cornelius Leondes|12|1996|Academic Press|239
+978-0-12-012775-7|Computer Techniques and Algorithms in Digital Sign|Cornelius Leondes|12|1996|Academic Press|297
+978-0-12-012776-4|Stochastic Digital Control System Techniques|Cornelius Leondes|11|1996|Academic Press|178
+978-0-12-012777-1|Multidimensional Systems Signal Processing Algorit|Cornelius Leondes|8|1996|Academic Press|206
+978-0-12-012778-8|Digital Control and Signal Processing Systems and|Cornelius Leondes|19|1996|Academic Press|248
+978-0-12-012779-5|Digital Control Systems Implementation and Computa|Cornelius Leondes|18|1996|Academic Press|154
+978-0-12-044506-6|Raman Amplification in Fiber Optical Communication|Clifford Headley, Govind Agrawal|14|2005|Academic Press|288
+978-0-12-045144-9|Applications of Nonlinear Fiber Optics|Govind Agrawal|15|2001|Academic Press|205
+978-0-12-047141-6|Multiresolution Signal Decomposition: Transforms,|Ali N. Akansu, Paul R. Haddad|18|2001|Academic Press|345
+978-0-12-047144-7|Data Hiding Fundamentals and Applications: Content|Husrev T. Sencar, Mahalingam Ramkumar, Ali N.|19|2004|Academic Press|192
+978-0-12-053079-3|Video Coding for Mobile Communications: Efficiency|Mohammed Al-Mualla, C. Nishan Canagarajah, Da|9|2003|Academic Press|274
+978-0-12-058661-5|Troubleshooting Optical Fiber Networks: Understand|Duwayne Anderson, Larry Johnson, Florian G. B|19|2004|Academic Press|337
+978-0-12-059475-7|Practical Process Research & Development|Neal G. Anderson|7|2000|Academic Press|168
+978-0-12-064155-0|Introduction to Optimum Design|Jasbir Arora|6|2004|Academic Press|298
+978-0-12-068377-2|Data Acquisition Techniques Using PCs|Howard Austerlitz|14|2003|Academic Press|320
+978-0-12-077460-9|Acoustic Wave Sensors|D. Ballantine / Robert White / S. Martin / An|11|1997|Academic Press|264
+978-0-12-077790-7|Handbook of Medical Imaging: Processing and Analys|Isaac Bankman|17|2000|Academic Press|166
+978-0-12-084590-3|Erbium-Doped Fiber Amplifiers: Fundamentals and Te|Philippe M. Becker, Anders A. Olsson, Jay R.|5|1999|Academic Press|118
+978-0-12-086430-0|Handbook of Shock Waves|Gabi BenDor / Ozer Igra / Tov Elperin|9|2001|Academic Press|346
+978-0-12-088405-6|Power Electronics And Motor Drives: Advances and T|Bimal K. Bose|17|2006|Academic Press|270
+978-0-12-088441-4|Environmental Solutions: Environmental Problems an|Franklin J. Agardy, NelsonLeonard Nemerow|20|2005|Academic Press|292
+978-0-12-088481-0|Guided Wave Optical Components and Devices|Bishnu Pal|17|2006|Academic Press|209
+978-0-12-088493-3|Circuits, Signals, and Systems for Bioengineers: A|John Semmlow|19|2005|Academic Press|155
+978-0-12-088501-5|Multilingual Speech Processing|Tanja Schultz, Katrin Kirchhoff|10|2006|Academic Press|236
+978-0-12-088514-5|System Requirements Analysis|Jeffrey Grady|7|2006|Academic Press|216
+978-0-12-088757-6|Digital Power Electronics and Applications|Fang Lin Luo, Hong Ye, Muhammad H. Rashid|15|2005|Academic Press|343
+978-0-12-088795-8|Switch-Mode Power Converters: Design and Analysis|Keng C. Wu|11|2006|Academic Press|294
+978-0-12-093270-2|Hysteresis in Magnetism|Giorgio Bertotti|5|1998|Academic Press|287
+978-0-12-108852-1|Getting It Right: R&D Methods for Science and Engi|Peter Bock|16|2001|Academic Press|211
+978-0-12-118710-1|Computational Electromagnetism|Alain Bossavit|16|1998|Academic Press|348
+978-0-12-119792-6|Handbook of Image and Video Processing|Alan Bovik|16|2005|Academic Press|116
+978-0-12-121682-5|Nonlinear Optics|Robert W. Boyd|7|2003|Academic Press|238
+978-0-12-121851-5|Systems Analysis and Modeling: A Macro-to-Micro Ap|Donald W. Boyd|15|2001|Academic Press|207
+978-0-12-133570-0|Optical Coherence Tomography: Principles and Appli|Mark E. Brezinski|15|2006|Academic Press|292
+978-0-12-134130-5|Cracks and Fracture|K. Bertram Broberg|11|1999|Academic Press|343
+978-0-12-140310-2|Insights Into Mobile Multimedia Communications|David R. Bull, C. Nishan Canagarajah, Andrew|10|1999|Academic Press|107
+978-0-12-168030-5|Symbolic Projection for Image Information Retrieva|Shi-Kuo Chang, Erland Jungert, Richard Green,|14|1996|Academic Press|225
+978-0-12-170960-0|The Electrical Engineering Handbook|Wai Kai Chen, Irwin J. David|6|2005|Academic Press|156
+978-0-12-171408-6|Undersea Fiber Communication Systems|Jose Chesnoy, Govind Agrawal, Ivan P. Kaminow|10|2002|Academic Press|310
+978-0-12-174231-7|Direct-Write Technologies for Rapid Prototyping: A|Alberto Pique, Douglas B. Chrisey|7|2002|Academic Press|131
+978-0-12-179190-2|Control Theory and Design: An RH2 and RH Viewpoint|Patrizio Colaneri, Jose C. Geromel, Arturo Lo|9|1997|Academic Press|295
+978-0-12-186030-1|Trends in Optics|Anna Consortini|9|1996|Academic Press|251
+978-0-12-186031-8|Numerical Methods in Biomedical Engineering|Stanley Dunn, Alkis Constantinides, Prabhas M|8|2006|Academic Press|330
+978-0-12-189710-9|Transmission Lines and Lumped Circuits: Fundamenta|Giovanni Miano, Antonio Maffucci|5|2001|Academic Press|319
+978-0-12-203590-6|Numerical Methods for Linear Control Systems|Biswa Datta|12|2003|Academic Press|177
+978-0-12-207891-0|Handbook of Fiber Optic Data Communication|Casimer DeCusatis|6|2002|Academic Press|337
+978-0-12-207892-7|Fiber Optic Data Communication: Technology Advance|Casimer DeCusatis|9|2002|Academic Press|309
+978-0-12-208431-7|Fiber Optic Essentials|Casimer DeCusatis, Carolyn J. Sher DeCusatis|18|2006|Academic Press|125
+978-0-12-221090-7|Technology, Humans, and Society:: Toward a Sustain|Richard C. Dorf|18|2001|Academic Press|232
+978-0-12-221440-0|A Unified Approach to the Finite Element Method an|Julian A. T. Dow|15|1999|Academic Press|194
+978-0-12-222695-3|Tunable Lasers Handbook|Frank J. Duarte|14|1995|Academic Press|339
+978-0-12-222696-0|Tunable Laser Optics|Frank J. Duarte|19|2003|Academic Press|305
+978-0-12-225261-7|WDM Technologies: Active Optical Components|Masahiko Fujiwara, Niloy K. Dutta, Achyut K.|15|2002|Academic Press|148
+978-0-12-225262-4|WDM Technologies: Passive Optical Components|Achyut K. Dutta, Niloy K. Dutta, Masahiko Fuj|13|2003|Academic Press|143
+978-0-12-225263-1|WDM Technologies: Optical Networks|Achyut K. Dutta, Niloy K. Dutta, Masahiko Fuj|14|2004|Academic Press|116
+978-0-12-226570-9|Clinical Engineering Handbook|Joseph Dyro|9|2004|Academic Press|337
+978-0-12-236542-3|Voice, Video, and Data Network Convergence: Archit|Juanita Ellis, Charles Pursell, Joy Rahman|15|2003|Academic Press|249
+978-0-12-236845-5|Pollution Prevention through Process Integration:|Mahmoud M. ElHalwagi|13|1997|Academic Press|229
+978-0-12-237085-4|Signal Processing for Active Control|Stephen Elliott|5|2001|Academic Press|309
+978-0-12-237461-6|Control System Design Guide: Using Your Computer t|George Ellis|13|2004|Academic Press|144
+978-0-12-237472-2|Observers in Control Systems|George Ellis|9|2002|Academic Press|139
+978-0-12-240570-9|Practical Guide to Occupational Health and Safety|Paul Erickson|5|1996|Academic Press|207
+978-0-12-247665-5|Foundations of Engineering Acoustics|Frank J. Fahy|6|2001|Academic Press|144
+978-0-12-257251-7|Characterization and Measurement of Magnetic Mater|Fausto Fiorillo / Isaak Mayergoyz|10|2004|Academic Press|287
+978-0-12-261912-0|Introduction to Chemical Engineering Analysis Usin|Henry C. Foley|19|2003|Academic Press|276
+978-0-12-262942-6|Advanced Array Systems, Applications and RF Techno|Nicholas Fourikis|17|2000|Academic Press|130
+978-0-12-269440-0|Active Control of Vibration|Christopher C. Fuller / S.J. Elliott / P.A. N|5|1996|Academic Press|114
+978-0-12-269951-1|Permanent Magnet and Electromechanical Devices: Ma|Edward P. Furlani|16|2001|Academic Press|209
+978-0-12-281845-5|Control in Robotics and Automation|Bijoy K. Ghosh, T. J. Tarn, Ning Xi|5|1999|Academic Press|302
+978-0-12-282160-8|Multimedia Communications: Directions and Innovati|Jerry D. Gibson|11|2001|Academic Press|257
+978-0-12-285852-9|Combustion|Irvin Glassman|9|1996|Academic Press|194
+978-0-12-289676-7|Industrial Ventilation Design Guidebook|Howard D. Goodfellow, Esko Tahti|6|2001|Academic Press|133
+978-0-12-294151-1|Supply Chain Design and Management: Strategic and|Manish Govil, Jean-Marie Proth|20|2003|Academic Press|212
+978-0-12-303260-7|Bioimpedance and Bioelectricity Basics|Sverre Grimnes, Orjan G Martinsen|8|2000|Academic Press|130
+978-0-12-310675-9|Low Temperature Electronics: Physics, Devices, Cir|Edmundo A. Gutierrez-D, Jamal Deen, Cor Claey|20|2001|Academic Press|222
+978-0-12-311630-7|Optical Interferometry|P. Hariharan|11|2003|Academic Press|240
+978-0-12-318860-1|Quantifying Sustainable Development: The Future of|Charles A.S. Hall, Patrick Van Laake, Carlos|20|2000|Academic Press|326
+978-0-12-335185-2|Field Guide to Appropriate Technology|Barrett Hazeltine, Christopher Bull|10|2003|Academic Press|183
+978-0-12-369387-7|A Unified Framework for Video Summarization, Brows|Ziyou Xiong, Regunathan Radhakrishnan, Ajay D|14|2006|Academic Press|239
+978-0-12-369394-5|Combustion Processes in Propulsion: Control, Noise|Gabriel Roy|12|2005|Butterworth-Heinemann|311
+978-0-12-369476-8|Multimedia Security Technologies for Digital Right|Wenjun Zeng, Heather Yu, ChingYung Lin|14|2006|Academic Press|186
+978-0-12-369531-4|Pattern Recognition|Sergios Theodoridis, Konstantinos Koutroumbas|7|2006|Academic Press|267
+978-0-12-370502-0|Essentials of Lean Six Sigma|Salman Taghizadegan|16|2006|ButterworthHeinemann|281
+978-0-12-370886-1|Ventilation for Environmental Tobacco Smoke|Brian A Rock|8|2006|ButterworthHeinemann|166
+978-0-12-373552-2|Info-Gap Decision Theory|Yakov Ben-Haim|14|2006|Academic Press|150
+978-0-12-374695-5|Handbook of Microwave Technology|T. Koryu Ishii|12|1995|Academic Press|263
+978-0-12-379777-3|Computer Vision and Applications: Concise Edition|Bernd Jahne|12|2000|Academic Press|122
+978-0-12-387582-2|Visualization Handbook|Charles D. Hansen, Chris R. Johnson|19|2004|Academic Press|338
+978-0-12-394850-2|Industrial Controls and Manufacturing|Edward W. Kamen|15|1999|Academic Press|319
+978-0-12-395172-4|Optical Fiber Telecommunications IV-A|Kaminow, Ivan;Li, Tingye|14|2002|Academic Press|217
+978-0-12-395173-1|Optical Fiber Telecommunications IV-B|Kaminow, Ivan;Li, Tingye|9|2002|Academic Press|317
+978-0-12-396561-5|Dielectric Phenomena in Solids|Kwan Chi Kao|19|2004|Academic Press|189
+978-0-12-396840-1|Controlling Chaos|Tomasz Kapitaniak|15|1996|Academic Press|238
+978-0-12-397630-7|Semiconductor Lasers I: Fundamentals|Eli Kapon|10|1999|Academic Press|323
+978-0-12-397631-4|Semiconductor Lasers II|Eli Kapon|15|1999|Academic Press|171
+978-0-12-400560-0|Fiber Bragg Gratings|Raman Kashyap|11|1999|Academic Press|230
+978-0-12-402772-5|Control in Power Electronics: Selected Problems|Marian P. Kazmierkowski, Ramu Krishnan, Frede|17|2003|Academic Press|279
+978-0-12-408655-5|Optical Sources, Detectors, and Systems|Robert Kingston|17|1995|Academic Press|294
+978-0-12-408750-7|Confocal Scanning Optical Microscopy and Related I|Gordon S. Kino, Timothy R. Corle|11|1996|Academic Press|343
+978-0-12-410590-4|Optical Solitons: From Fibers to Photonic Crystals|Yuri S. Kivshar, Govind Agrawal|10|2003|Academic Press|240
+978-0-12-421161-2|The E-Commerce Book|Steffano Korper, Juanita Ellis|17|2001|Morgan Kaufmann|157
+978-0-12-429150-8|Magnetic Resonance Imaging|Vadim Kuperman|9|2000|Academic Press|115
+978-0-12-429851-4|The UHMWPE Handbook: Ultra-High Molecular Weight P|Steven M. Kurtz|14|2004|Academic Press|327
+978-0-12-437160-6|Optoelectronics for Data Communication|Ronald C. Lasky, Ulf L. Osterberg, Daniel P.|19|1995|Academic Press|161
+978-0-12-437175-0|High Voltage Vacuum Insulation|Rod Latham|7|1995|Academic Press|282
+978-0-12-437552-9|Bioelectrical Signal Processing in Cardiac and Neu|Leif S?rnmo, Pablo Laguna|6|2005|Academic Press|156
+978-0-12-443341-0|Handbook of Materials Behavior Models|Jean LeMaitre|7|2001|Academic Press|238
+978-0-12-443345-8|Ultrasound and Elastic Waves: Frequently Asked Que|Brian Michael Lempriere|12|2003|Academic Press|103
+978-0-12-444165-1|Economic Risk in Hydrocarbon Exploration|Ian Lerche, John A. MacKay|9|1999|Academic Press|340
+978-0-12-444816-2|Artificial Vision: Image Description, Recognition,|Stefano Levialdi, Virginio Cantoni, Vito Robe|18|1996|Academic Press|258
+978-0-12-451830-8|Single and Multi-Chip Microcontroller Interfacing|G. Jack Lipovski, Jack. G Lipovski|7|1999|Academic Press|211
+978-0-12-451832-2|Embedded Microcontroller Interfacing for M-COR Sys|G. Lipovski, J. Irwin|16|2000|Academic Press|332
+978-0-12-451838-4|Introduction to Microcontrollers: Architecture, Pr|G. Jack Lipovski|20|2005|Academic Press|238
+978-0-12-464786-2|Science and Technology of Rubber|James E. Mark, Burak Erman|13|2005|Academic Press|195
+978-0-12-466606-1|A Wavelet Tour of Signal Processing|Stï¿½phane Mallat|14|1999|Academic Press|228
+978-0-12-466627-6|Magneto-Resistive and Spin Valve Heads: Fundamenta|John C. Mallinson|6|2002|Academic Press|302
+978-0-12-468041-8|Third Generation CDMA Systems for Enhanced Data Se|Giridhar D. Mandyam, Jersey Lai, Jerry D. Gib|16|2003|Academic Press|176
+978-0-12-470505-0|Binary Digital Image Processing: A Discrete Approa|Stï¿½phane Marchand-Maillet, Yazid M. Sharaiha|18|2000|Academic Press|230
+978-0-12-471352-9|Kinematic Chains and Machine Components Design|Dan B. Marghitu|17|2005|Academic Press|182
+978-0-12-471370-3|Mechanical Engineer's Handbook|Dan B. Marghitu, J. David Irwin|20|2001|Academic Press|302
+978-0-12-480870-6|Nonlinear Diffusion of Electromagnetic Fields|Isaak Mayergoyz|7|1998|Academic Press|208
+978-0-12-480873-7|Mathematical Models of Hysteresis and their Applic|Isaak Mayergoyz|20|2003|Elsevier|225
+978-0-12-480874-4|The Science of Hysteresis|Giorgio Bertotti / Isaak Mayergoyz|16|2005|Academic Press|120
+978-0-12-487570-8|Fundamentals of Acoustical Oceanography|Herman Medwin / Clarence S. Clay|13|1998|Academic Press|301
+978-0-12-490951-9|Practical Optics|Naftaly Menn|9|2004|Academic Press|168
+978-0-12-492940-1|Elements of Space Technology|Rudolph X. Meyer|12|1999|Academic Press|210
+978-0-12-493290-6|Pattern Recognition in Medical Imaging|Anke Meyer-Baese|19|2003|Academic Press|180
+978-0-12-497451-7|Coal Energy Systems|Bruce G. Miller|9|2005|Academic Press|165
+978-0-12-500451-0|Nonlinear Image Processing|Giovanni Sicuranza, Sanjit Mitra|8|2001|Academic Press|343
+978-0-12-500453-4|Introduction to Multimedia Systems|Bhatnagar, Gaurav|11|2004|Academic Press|163
+978-0-12-504190-4|Solitons in Optical Fibers: Fundamentals and Appli|Linn F. Mollenauer, James P. Gordon|14|2006|Academic Press|286
+978-0-12-507751-4|Environmental Forensics: Contaminant Specific Guid|Robert D. Morrison, Brian L. Murphy|6|2005|Academic Press|305
+978-0-12-511221-5|Interlayer Dielectrics for Semiconductor Technolog|Shyam P Muraka / Moshe Eizenberg / Ashok K Si|16|2003|Academic Press|324
+978-0-12-524945-4|Structural Acoustics and Vibration|Roger Ohayon / Christian Soize|15|1998|Academic Press|186
+978-0-12-524995-9|Engineering Materials Science|Milton Ohring|13|1995|Academic Press|199
+978-0-12-525096-2|Fundamentals of Optical Waveguides|Katsunari Okamoto|18|2006|Academic Press|275
+978-0-12-526420-4|Neural Networks and Pattern Recognition|Omid Omidvar, Judith Dayhoff|8|1998|Academic Press|169
+978-0-12-526430-3|Neural Systems for Control|Omid Omidvar, David L. Elliott|10|1997|Academic Press|123
+978-0-12-533084-8|Electronics and Communications for Scientists and|Martin Plonus|9|2001|Academic Press|219
+978-0-12-544360-9|Fluid-Structure Interactions, Volume 1|Michael P. Paidoussis|9|1998|Academic Press|219
+978-0-12-544361-6|Fluid-Structure Interactions, Volume 2|Michael P. Paidoussis|9|2003|Academic Press|320
+978-0-12-546334-8|Wind Power in View: Energy Landscapes in a Crowded|Martin Pasqualetti, Paul Gipe, Robert Righter|14|2002|Academic Press|262
+978-0-12-550711-0|Design of Medical Electronic Devices|Reinaldo Perez|6|2002|Academic Press|267
+978-0-12-550721-9|Space Interference: Aspects of Noise, Interference|Reinaldo Perez|7|1999|Academic Press|337
+978-0-12-550722-6|Interference into Circuits: Aspects of Noise, Inte|Reinaldo Perez|8|1999|Academic Press|349
+978-0-12-550723-3|Terrestrial and Mobile Interference: Aspects of No|Reinaldo Perez|10|1999|Academic Press|176
+978-0-12-553010-1|Handbook of Computational Fluid Mechanics|Roger Peyret|14|2000|Academic Press|265
+978-0-12-554157-2|Smart Inspection Systems: Techniques and Applicati|Duc T. Pham, R J Alcock|18|2003|Academic Press|138
+978-0-12-560990-6|Handbook of Time Series Analysis, Signal Processin|D.S.G. Pollock, Richard C. Green, Truong Nguy|20|1999|Academic Press|252
+978-0-12-563730-5|Ultrasonic Techniques for Fluids Characterization|Malcolm J.W. Povey|19|1997|Academic Press|217
+978-0-12-580190-4|Time Domain Electromagnetics|Sadasiva M. Rao|12|1999|Academic Press|166
+978-0-12-583560-2|Occupational Health in Aviation|Russell B. Rayman / Joseph Ribak / Paul Froom|16|1995|Academic Press|313
+978-0-12-583961-7|Industrial Applications of Lasers|John F. Ready|17|1997|Academic Press|262
+978-0-12-602250-6|Modeling and Problem Solving Techniques for Engine|Laszlo Horvath, Imre Rudas|19|2004|Academic Press|183
+978-0-12-605811-6|Elasticity: Theory, Applications, and Numerics|Martin H. Sadd|9|2005|Academic Press|327
+978-0-12-615760-4|Numerical Methods in Electromagnetism|Sheppard Salon, M. V.K. Chari|6|2000|Academic Press|329
+978-0-12-618520-1|Robotics: Designing the Mechanisms for Automated M|Ben Zion Sandler|9|1999|Academic Press|286
+978-0-12-619261-2|Exploratory Image Databases|Simone Santini|10|2001|Academic Press|308
+978-0-12-620861-0|Lossless Compression Handbook|Khalid Sayood|10|2003|Academic Press|301
+978-0-12-629810-9|Astronomical Optics|Daniel J. Schroeder|12|2000|Academic Press|213
+978-0-12-635490-4|Photoreactive Organic Thin Films|Zouheir Sekkat, Wolfgang Knoll|11|2002|Academic Press|302
+978-0-12-646490-0|Soft Computing and Intelligent Systems|Naresh Sinha, Madan Gupta|18|2000|Academic Press|309
+978-0-12-655281-2|Hydrogen and Fuel Cells: Emerging Technologies and|Bent Sorensen (S? rensen)|11|2005|Academic Press|108
+978-0-12-656153-1|Renewable Energy|Sorensen, Bent|5|2004|Academic Press|284
+978-0-12-656881-3|The Hydrogen Energy Transition: Cutting Carbon fro|Daniel Sperling, James S. Cannon|13|2004|Academic Press|165
+978-0-12-680145-3|Diagnostic Ultrasound Imaging: Inside Out|Thomas Szabo|16|2004|Academic Press|275
+978-0-12-685351-3|Intelligent Communication Systems: Toward Construc|Nobuyoshi Terashima|10|2002|Academic Press|173
+978-0-12-689340-3|Water Use, Management, and Planning in the United|Stephen A. Thompson|15|1999|Academic Press|169
+978-0-12-691295-1|Engineering Digital Design: Revised Second Edition|Richard F. Tinder|5|2000|Academic Press|173
+978-0-12-692660-6|Fundamentals of Acoustic Signal Processing|Mikio Tohyama / Tsunehiko Koike|13|1998|Academic Press|221
+978-0-12-701510-1|Control of Induction Motors|Andrzej M. Trzynadlowski|8|2001|Academic Press|248
+978-0-12-709120-4|Analytical Fracture Mechanics|David J. Unger|9|1995|Academic Press|343
+978-0-12-710057-9|Environmental Contaminants: Assessment and Control|Daniel Vallero, Daniel Vallero|16|2004|Academic Press|162
+978-0-12-734530-7|DSP Integrated Circuits|Lars Wanhammar|14|1999|Academic Press|126
+978-0-12-734570-3|Magnetic Information Storage Technology|Shan Wang, Alex Taratorin|20|1999|Academic Press|254
+978-0-12-748451-8|Mathematics for Multimedia|Mladen Victor Wickerhauser|10|2003|Academic Press|138
+978-0-12-753960-7|Fourier Acoustics: Sound Radiation and Nearfield A|Earl G. Williams|19|1999|Academic Press|282
+978-0-12-763952-9|Bio-Based Polymers and Composites|Richard Wool, X. Susan Sun|18|2005|Academic Press|210
+978-0-12-774810-8|Photorefractive Optics: Materials, Properties, and|Francis T.S. Yu, Shizuhuo Yin|6|2000|Academic Press|139
+978-0-12-774811-5|Introduction to Information Optics|Francis T.S. Yu, Suganda Jutamulia, Shizuhuo|18|2001|Academic Press|266
+978-0-12-787767-9|Stress, Strain, and Structural Dynamics: An Intera|Bingen Yang|10|2005|Academic Press|331
+978-0-340-54472-3|Sewers: Repair and Renovation|Geoffrey F Read, Ian Vickridge|17|1996|Butterworth-Heinemann|109
+978-0-340-61058-9|Fluid Flow for Chemical and Process Engineers|F. Holland, R. Bragg|18|1995|Butterworth-Heinemann|169
+978-0-340-61457-0|Introduction to Medical Electronics Applications|L. Nokes, D. Jennings, T. Flint, B. Turton|13|1995|Butterworth-Heinemann|322
+978-0-340-63170-6|Performance and Stability of Aircraft|J. Russell|16|1996|ButterworthHeinemann|204
+978-0-340-63171-3|Spectral Analysis in Engineering: Concepts and Cas|Grant Hearn, Andrew Metcalfe|18|1995|Butterworth-Heinemann|349
+978-0-340-63183-6|Engineering Vibration Analysis with Application to|C. Beards|5|1995|ButterworthHeinemann|302
+978-0-340-63191-1|Turbomachinery Performance Analysis|R. I. Lewis|12|1996|ButterworthHeinemann|342
+978-0-340-63195-9|Principles of Engineering Manufacture|V. Chiles, S. Black, A. Lissaman, S. Martin|12|1996|Butterworth-Heinemann|220
+978-0-340-63198-0|Introduction to Electric Circuits|Ray Powell|20|1995|ButterworthHeinemann|112
+978-0-340-64570-3|Introduction to Digital Electronics|J. Crowe, Barrie HayesGill|14|1998|Butterworth-Heinemann|297
+978-0-340-64571-0|Advanced Engineering Dynamics|H. Harrison, T. Nettleton|11|1997|ButterworthHeinemann|329
+978-0-340-64580-2|Structural Vibration: Analysis and Damping|C. Beards|14|1996|Butterworth-Heinemann|164
+978-0-340-66266-3|Concrete Folded Plate Roofs|C. Wilby|19|1997|Butterworth-Heinemann|207
+978-0-340-66278-6|Modern Batteries 2nd Edition|C. Vincent, B. Scrosati|10|1997|ButterworthHeinemann|232
+978-0-340-66279-3|Transport Planning and Traffic Engineering|Coleman A. O'Flaherty|10|1996|Butterworth-Heinemann|212
+978-0-340-67648-6|NDT Data Fusion|Xavier Gros|12|1996|Butterworth-Heinemann|300
+978-0-340-67649-3|Introduction to Fluid Mechanics|Yasuki Nakayama, Robert Boucher|16|1998|Butterworth-Heinemann|133
+978-0-340-67650-9|Theory & Design of Air Cushion Craft|Liang Yun, Alan Bliault|8|2000|ButterworthHeinemann|305
+978-0-340-67652-3|Hydraulic Fluids|Peter Hodges|12|1996|Butterworth-Heinemann|260
+978-0-340-67699-8|Advanced Thermodynamics for Engineers|D. Winterbone|11|1996|ButterworthHeinemann|313
+978-0-340-69135-9|Case Studies in Engineering Design|Cliff Matthews|19|1998|ButterworthHeinemann|340
+978-0-340-69143-4|Introduction to Power Electronics|D. Fewson|5|1998|ButterworthHeinemann|326
+978-0-340-70014-3|Software Development for Engineers: C/C++, Pascal,|William Buchanan|8|1997|Butterworth-Heinemann|302
+978-0-340-70576-6|The Fundamentals of Signal Transmission: Optical F|Lemuel Ibbotson|5|1998|Butterworth-Heinemann|294
+978-0-340-70589-6|Guide to Neural Computing Applications|Lionel Tarassenko|17|1998|ButterworthHeinemann|132
+978-0-340-71920-6|Strength of Materials and Structures|Carl T. F. Ross, The late John Case, A. Chilv|9|1999|Butterworth-Heinemann|338
+978-0-340-71964-0|Facilities Management and the Business of Space|Wes McGregor, Danny Shiem-Shen Then|20|1999|Butterworth-Heinemann|287
+978-0-340-72018-9|Water Supply|Alan C. Twort, Don D. Ratnayaka, Malcolm J. B|17|2000|ButterworthHeinemann|221
+978-0-340-73125-3|Analogue and Digital Communication Techniques|Graham Smillie|15|1999|ButterworthHeinemann|348
+978-0-340-73162-8|Principles of Metal Manufacturing Processes|J. Beddoes, M. Bibby|15|1999|ButterworthHeinemann|107
+978-0-340-74076-7|Computer Busses|William Buchanan|14|2000|Butterworth-Heinemann|276
+978-0-444-50032-8|Molybdenum Disulphide Lubrication|A.R. Lansdown|16|1999|Elsevier|327
+978-0-444-50033-5|Tribology for Energy Conservation|D. Dowson, C.M. Taylor, T.H.C. Childs, G. Dal|14|1998|Elsevier|135
+978-0-444-50267-4|Lubrication at the Frontier: The Role of the Inter|D. Dowson, M. Priest, C.M. Taylor, P. Ehret,|10|1999|Elsevier|245
+978-0-444-50503-3|Multi-Level Methods in Lubrication|C.H. Venner, A.A. Lubrecht|15|2000|Elsevier|257
+978-0-444-50531-6|Thinning Films and Tribological Interfaces|D. Dowson, M. Priest, C.M. Taylor, P. Ehret,|14|2000|Elsevier|120
+978-0-444-50558-3|Micro Mechanical Transducers|Minhang Bao, S. Middelhoek|8|2000|Elsevier|127
+978-0-444-50581-1|Tribology Research: From Model Experiment to Indus|G. Dalmaz, A.A. Lubrecht, D. Dowson, M. Pries|5|2001|Elsevier|173
+978-0-444-50649-8|Human Friendly Mechatronics|Eiji Arai / Tatsuo Arai / Masaharu Takano|13|2001|Elsevier Science Ltd|336
+978-0-444-50746-4|Valve-Regulated Lead-Acid Batteries|D.A.J. Rand/P.T. Moseley/J. Garche/C.D. Parke|13|2004|Elsevier|337
+978-0-444-50882-9|Capture Pumping Technology|K. Welch|20|2001|North-Holland|163
+978-0-444-50969-7|Boundary and Mixed Lubrication: Science and Applic|D. Dowson, M. Priest, G. Dalmaz, A.A. Lubrech|11|2002|Elsevier|253
+978-0-444-51047-1|Six Sigma Quality for Business and Manufacture|Joseph Gordon|9|2002|Elsevier Science Ltd|137
+978-0-444-51086-0|The Classical Stefan Problem|S.C. Gupta|5|2003|Elsevier|179
+978-0-444-51102-7|Stochastic Dynamics: Modeling Solute Transport in|Don Kulasiri, Wynand Verwoerd|18|2002|North-Holland|314
+978-0-444-51155-3|Godunov-type Schemes|V. Guinot|14|2003|Elsevier|279
+978-0-444-51243-7|Tribological Research and Design for Engineering S|D. Dowson, A.A. Lubrecht, G. Dalmaz, M. Prie|14|2003|Elsevier|199
+978-0-444-51296-3|Tribochemistry of Lubricating Oils|Z. Pawlak|20|2003|Elsevier|229
+978-0-444-51318-2|Tribology of Elastomers|Si-Wei Zhang|9|2004|Elsevier|222
+978-0-444-51427-1|Non-Linear Theory of Elasticity and Optimal Design|L.W. Ratner|10|2003|Elsevier Science Ltd|245
+978-0-444-51435-6|Uncertain Input Data Problems and the Worst Scenar|Ivan Hlavacek, Jan Chleboun, Ivo Babuska, Jan|20|2004|Elsevier|166
+978-0-444-51589-6|Experimental Methods in Tribology|Gwidon W. Stachowiak, Andrew W. Batchelor, Gr|8|2004|Elsevier|249
+978-0-444-51616-9|Analysis and Design Principles of MEMS Devices|Minhang Bao|7|2005|Elsevier Science Ltd|189
+978-0-444-51687-9|Life Cycle Tribology|D. Dowson, M. Priest, G. Dalmaz, A.A. Lubrech|13|2005|Elsevier|331
+978-0-444-51706-7|Transient Processes in Tribology|G. Dalmaz, A.A. Lubrecht, D. Dowson, M. Pries|5|2003|Elsevier|132
+978-0-444-51756-2|An Intelligent System for Tribological Design in E|X.J. Zhang, C.L. Gui|14|2004|Elsevier|312
+978-0-444-51813-2|Systems and Human Science - For Safety, Security a|T. Arai/S. Yamamoto/K. Makino|6|2005|Elsevier Science Ltd|196
+978-0-444-51880-4|Tribology in Electrical Environments|H. Prashad|14|2005|Elsevier|140
+978-0-444-52162-0|Tribology and Biophysics of Artificial Joints|L.S. Pinchuk, V.I. Nikolaev, E.A. Tsvetkova,|11|2006|Elsevier|187
+978-0-444-72001-6|Measuring Current, Voltage and Power|K. Iwansson, G. Sinapius, W. Hoornaert, S. Mi|13|1999|Elsevier|336
+978-0-444-81583-5|Mechanics of Geomaterial Interfaces|A.P.S. Selvadurai, M.J. Boulon|11|1995|Elsevier|278
+978-0-444-81706-8|Materials Processing Defects|S.K. Ghosh, M. Predeleanu|10|1995|Elsevier|250
+978-0-444-81801-0|New Insulators, Devices and Radiation Effects|G. Barbottin, A. Vapaille|10|1999|North-Holland|299
+978-0-444-81815-7|Planning, Design, and Analysis of Cellular Manufac|A.K. Kamrani, H.R. Parsaei, D.H. Liles|6|1995|Elsevier|194
+978-0-444-81930-7|Mechanics of Transformation Toughening and Related|B.L. Karihaloo, J.H. Andreasen|7|1996|North-Holland|188
+978-0-444-82170-6|The Theory of Singular Perturbations|E.M. de Jager, J.F. Furu|7|1996|NorthHolland|230
+978-0-444-82261-1|Semiconductor Sensors in PhysicoChemical Studies|L.Yu Kupriyanov|8|1996|Elsevier|315
+978-0-444-82338-0|Damage and Interfacial Debonding in Composites|G.Z. Voyiadjis, D.H. Allen|14|1996|Elsevier|331
+978-0-444-82349-6|Damage Mechanics|D. Krajcinovic|20|1996|North-Holland|222
+978-0-444-82363-2|Micro Mechanical Systems|T. Fukuda, Wolfgang Menz|6|1998|Elsevier|312
+978-0-444-82366-3|Hydrodynamic Lubrication|J. Frï¿½ne, D. Nicolas, B. Degueurce, D. Berthe|9|1997|Elsevier|144
+978-0-444-82670-1|Advanced Methods in Materials Processing Defects|M. Predeleanu, P. Gilormini|19|1997|Elsevier|230
+978-0-444-82790-6|Mercury Cadmium Telluride Imagers|A.C. Onshage|18|1997|Elsevier|253
+978-0-444-89018-4|Wave Propagation in Layered Anisotropic Media|A.H. Nayfeh|18|1995|NorthHolland|199
+978-0-444-89479-3|Plastic Limit Analysis of Plates, Shells and Disks|M.A. Save, C.E. Massonnet, G. de Saxcï¿½|7|1997|North-Holland|194
+978-0-444-89515-8|Intelligent Sensors|H. Yamasaki|14|1996|Elsevier|292
+978-0-444-89563-9|Finite Elements, Electromagnetics and Design|S.R.H. Hoole|13|1995|Elsevier Science Ltd|272
+978-0-444-89798-5|Flexible Manufacturing Systems: Recent Development|A. Raouf, M. BenDaya|19|1995|Elsevier|325
+978-0-7506-1681-2|Post-Tensioned Concrete Floors|Martin Williams, Sami Khan|5|1995|Laxton's|220
+978-0-7506-1959-2|Adsorption Technology & Design|Barry Crittenden, W John Thomas|17|1998|Butterworth-Heinemann|241
+978-0-7506-2403-9|Mechatronics Volume 2: Concepts in Artifical Intel|Jeffrey Johnson, Philip Picton|10|1995|Newnes|252
+978-0-7506-2498-5|Engineering Contracts|ROBERT RIBEIRO|18|1997|Butterworth-Heinemann|240
+978-0-7506-2530-2|Introduction to Marine Engineering|D A Taylor|14|1996|ButterworthHeinemann|349
+978-0-7506-2628-6|Understand Electronic Filters|Owen Bishop|12|1996|Newnes|216
+978-0-7506-2629-3|High Performance Audio Power Amplifiers|Ben Duncan|13|1996|Newnes|214
+978-0-7506-2662-0|Protection of Industrial Power Systems|T. DAVIES|18|1998|Butterworth-Heinemann|209
+978-0-7506-2724-5|Electrical Machines and Drives|John Hindmarsh, Alasdair Renfrew|12|1997|Butterworth-Heinemann|230
+978-0-7506-2782-5|Electrostatic Hazards|Gï¿½nter Luttgens, Norman Wilson|5|1997|ButterworthHeinemann|200
+978-0-7506-2856-3|Digital Storage Oscilloscopes|Ian Hickman|17|1997|Newnes|256
+978-0-7506-3140-2|Newnes Industrial Control Wiring Guide|Mercer, R B|5|2001|Newnes|314
+978-0-7506-3269-0|Elementary Behaviour of Composite Steel and Concre|Deric Oehlers, Mark A. Bradford|13|2000|Butterworth-Heinemann|213
+978-0-7506-3277-5|Selection and Use of Engineering Materials|F A A Crane, J A Charles, Justin Furness|15|1997|Butterworth-Heinemann|166
+978-0-7506-3355-0|EMC at Component and PCB Level|Martin O 'Hara|15|1998|Newnes|179
+978-0-7506-3356-7|Valve and Transistor Audio Amplifiers|John Linsley Hood|15|1997|Newnes|209
+978-0-7506-3429-8|Fuzzy Controllers Handbook: How to Design Them, Ho|Leon Reznik|5|1997|Newnes|335
+978-0-7506-3541-7|Computational Methods in Process Simulation|W F Ramirez|10|1997|ButterworthHeinemann|247
+978-0-7506-3545-5|Soldering in Electronics Assembly|MIKE JUDD, Keith Brindley|8|1999|Newnes|278
+978-0-7506-3553-0|An Elementary Guide To Reliability|G. Dummer, R. Winton, Mike Tooley|16|1997|Butterworth-Heinemann|240
