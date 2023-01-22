@@ -4,6 +4,7 @@ This project is for maintaining a stock of a library located in Qatar. It starts
 # NOTE: The project was made using very simple beginner level Python to make it easely understandable by all audience.
 
 Operations included in the system:
+
 1-Adding a book
 
 2-Updating a book's copies
